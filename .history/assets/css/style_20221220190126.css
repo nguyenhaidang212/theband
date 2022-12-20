@@ -171,7 +171,7 @@ html{
     background-color: #333;
     padding-top: 50%;
     position: relative;
-    background: url("../img/slider/slider1.jpg") top center/ cover no-repeat;
+    background: url("/assets/img/slider/slider1.jpg") top center/ cover no-repeat;
 }
 
 #slider .text-content{

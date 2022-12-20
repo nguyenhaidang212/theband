@@ -51,6 +51,9 @@ html{
     text-align: center !important;
 }
 
+#main {
+
+}
 
 #nav {
     display: inline-block;
@@ -171,7 +174,7 @@ html{
     background-color: #333;
     padding-top: 50%;
     position: relative;
-    background: url("../img/slider/slider1.jpg") top center/ cover no-repeat;
+    background: url("assets/img/slider/slider1.jpg") top center/ cover no-repeat;
 }
 
 #slider .text-content{
@@ -193,6 +196,10 @@ html{
 #slider .text{
     font-size: 15px;
     margin-top: 10px;
+}
+
+#content{
+
 }
 
 #content .content-section{
@@ -234,6 +241,8 @@ html{
     text-align: justify;
     line-height: 1.4;
 }
+
+
 
 #content .member-name{
     font-size: 15px;
